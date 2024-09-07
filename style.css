@@ -482,7 +482,10 @@ abbr{
     text-align: center;
 	position: relative;
 }
-
+.wechatImg{
+    width: 300px;
+    height: 300px;
+}
 .qr_close {
 	color: #aaa;
     float: right;
